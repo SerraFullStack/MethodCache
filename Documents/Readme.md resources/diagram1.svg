@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="diagram1.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3774"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="846.72878"
+     inkscape:cy="664.70155"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 189,45.362183 0,622.999997"
+       id="path2985"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Pessoal\Home\Projects\GitHub\MethodCache\Documents\Readme.md resources\diagram1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2987"
+       d="m 509,45.362183 0,622.999997"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Pessoal\Home\Projects\GitHub\MethodCache\Documents\Readme.md resources\diagram1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="146"
+       y="35.362183"
+       id="text2989"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Pessoal\Home\Projects\GitHub\MethodCache\Documents\Readme.md resources\diagram1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2991"
+         x="146"
+         y="35.362183">Your code</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text2993"
+       y="35.362183"
+       x="444"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Pessoal\Home\Projects\GitHub\MethodCache\Documents\Readme.md resources\diagram1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         y="35.362183"
+         x="444"
+         id="tspan2995"
+         sodipodi:role="line">MethodCache</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 190.21172,97.060921 317.49095,0"
+       id="path2997"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Pessoal\Home\Projects\GitHub\MethodCache\Documents\Readme.md resources\diagram1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="200.11122"
+       y="92.575645"
+       id="text4211"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Pessoal\Home\Projects\GitHub\MethodCache\Documents\Readme.md resources\diagram1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4213"
+         x="200.11122"
+         y="92.575645">Hey! You! Run this delegate for me</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4215"
+       d="m 516.21172,97.060921 27.55339,0 0,110.485439 -32.50313,0.17677"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Pessoal\Home\Projects\GitHub\MethodCache\Documents\Readme.md resources\diagram1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4217"
+       y="123.57565"
+       x="553.11121"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Pessoal\Home\Projects\GitHub\MethodCache\Documents\Readme.md resources\diagram1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         y="123.57565"
+         x="553.11121"
+         id="tspan4219"
+         sodipodi:role="line">I really like this guy, </tspan><tspan
+         y="138.57565"
+         x="553.11121"
+         sodipodi:role="line"
+         id="tspan4221">he's very polite. </tspan><tspan
+         y="153.57565"
+         x="553.11121"
+         sodipodi:role="line"
+         id="tspan4223"></tspan><tspan
+         y="168.57565"
+         x="553.11121"
+         sodipodi:role="line"
+         id="tspan4225">I will execute the method </tspan><tspan
+         y="183.57565"
+         x="553.11121"
+         sodipodi:role="line"
+         id="tspan4227">he requested</tspan></text>
+    <path
+       sodipodi:nodetypes="cccc"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 516.21172,225.06092 27.55339,0 0,66.48544 -32.50313,-0.0732"
+       id="path4229"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Pessoal\Home\Projects\GitHub\MethodCache\Documents\Readme.md resources\diagram1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="553.11121"
+       y="251.57565"
+       id="text4231"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Pessoal\Home\Projects\GitHub\MethodCache\Documents\Readme.md resources\diagram1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan4241"
+         sodipodi:role="line"
+         x="553.11121"
+         y="251.57565">Okay, but before I respond to him, </tspan><tspan
+         sodipodi:role="line"
+         x="553.11121"
+         y="266.57565"
+         id="tspan4257">I'll save this one. Maybe he'll </tspan><tspan
+         sodipodi:role="line"
+         x="553.11121"
+         y="281.57565"
+         id="tspan4259">ask me that again soon!</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4274"
+       d="m 509.21172,328.06092 -317.50905,0"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Pessoal\Home\Projects\GitHub\MethodCache\Documents\Readme.md resources\diagram1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4276"
+       y="322.57565"
+       x="263.11121"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Pessoal\Home\Projects\GitHub\MethodCache\Documents\Readme.md resources\diagram1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         y="322.57565"
+         x="263.11121"
+         id="tspan4278"
+         sodipodi:role="line">Ok dude, here's the response of your method</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4280"
+       d="m 190.21172,377.06092 317.49095,0"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       inkscape:export-filename="C:\Pessoal\Home\Projects\GitHub\MethodCache\Documents\Readme.md resources\diagram1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4282"
+       y="372.57565"
+       x="200.11122"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Pessoal\Home\Projects\GitHub\MethodCache\Documents\Readme.md resources\diagram1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         y="372.57565"
+         x="200.11122"
+         id="tspan4284"
+         sodipodi:role="line">Hey! Can you run this delegate again?</tspan></text>
+    <path
+       sodipodi:nodetypes="cccc"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 516.21172,377.06092 27.55339,0 0,110.48544 -32.50313,0.17677"
+       id="path4286"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Pessoal\Home\Projects\GitHub\MethodCache\Documents\Readme.md resources\diagram1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="551.11121"
+       y="411.57565"
+       id="text4288"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Pessoal\Home\Projects\GitHub\MethodCache\Documents\Readme.md resources\diagram1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="551.11121"
+         y="411.57565"
+         id="tspan4314">I knew he was going to ask for </tspan><tspan
+         sodipodi:role="line"
+         x="551.11121"
+         y="426.57565"
+         id="tspan4318">it again. I'm not going to run, I'm </tspan><tspan
+         sodipodi:role="line"
+         x="551.11121"
+         y="441.57565"
+         id="tspan4320">just going to return the same </tspan><tspan
+         sodipodi:role="line"
+         x="551.11121"
+         y="456.57565"
+         id="tspan4322">response as before</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 509.21172,508.06092 -317.50905,0"
+       id="path4324"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Pessoal\Home\Projects\GitHub\MethodCache\Documents\Readme.md resources\diagram1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="263.11121"
+       y="502.57565"
+       id="text4326"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Pessoal\Home\Projects\GitHub\MethodCache\Documents\Readme.md resources\diagram1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4328"
+         x="263.11121"
+         y="502.57565">Ok dude, here's the response of your method</tspan></text>
+  </g>
+</svg>
