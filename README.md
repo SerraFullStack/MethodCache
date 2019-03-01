@@ -8,3 +8,7 @@ library.  When  you  write  a  delegate to make a request and determina an id fo
 library  will call this delegate just one time inside a period of time. Any other request of
 execution  of  this  delegate  int this time period will no be execute. Instead of this, the
 system will return the same result as obtained by initial execution.
+
+
+
+![](https://raw.githubusercontent.com/SerraFullStack/MethodCache/master/Documents/Readme.md%20resources/diagram1.png)
